@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Template LaunchAgent for the Tide Calendar CLI. `tide-calendar install-agent`
+  renders a filled copy of this into ~/Library/LaunchAgents/ with the real node
+  path, repo path, and TIDE_CAL_HOME substituted for the {{...}} placeholders.
+  The Mac runs in Auckland, so Hour 6 fires at 06:00 NZ directly (no offset math).
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>            <string>nz.zach.tide-calendar</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>{{NODE}}</string>
+    <string>{{CLI}}</string>
+    <string>run</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key> <integer>1</integer>
+    <key>Hour</key>    <integer>6</integer>
+    <key>Minute</key>  <integer>0</integer>
+  </dict>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>TIDE_CAL_HOME</key> <string>{{HOME}}</string>
+    <key>PATH</key>          <string>{{PATH}}</string>
+  </dict>
+  <key>StandardOutPath</key>  <string>{{HOME}}/work/launchd.out.log</string>
+  <key>StandardErrorPath</key><string>{{HOME}}/work/launchd.err.log</string>
+  <key>RunAtLoad</key>        <false/>
+</dict>
+</plist>

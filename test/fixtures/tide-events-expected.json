@@ -1,0 +1,497 @@
+{
+  "location": {
+    "name": "Long Bay",
+    "lat": -36.679,
+    "long": 174.75
+  },
+  "generatedAt": "2026-07-17T07:08:40.960Z",
+  "timeZone": "Pacific/Auckland",
+  "events": [
+    {
+      "title": "Low tide (-1.27m)",
+      "tideType": "low",
+      "height": -1.27,
+      "utc": "2026-07-16T15:00:00Z",
+      "start": "2026-07-17T02:30:00+12:00",
+      "end": "2026-07-17T03:30:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.21m)",
+      "tideType": "high",
+      "height": 1.21,
+      "utc": "2026-07-16T21:02:00Z",
+      "start": "2026-07-17T08:32:00+12:00",
+      "end": "2026-07-17T09:32:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.44m)",
+      "tideType": "low",
+      "height": -1.44,
+      "utc": "2026-07-17T03:12:00Z",
+      "start": "2026-07-17T14:42:00+12:00",
+      "end": "2026-07-17T15:42:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.50m)",
+      "tideType": "high",
+      "height": 1.5,
+      "utc": "2026-07-17T09:35:00Z",
+      "start": "2026-07-17T21:05:00+12:00",
+      "end": "2026-07-17T22:05:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.28m)",
+      "tideType": "low",
+      "height": -1.28,
+      "utc": "2026-07-17T15:51:00Z",
+      "start": "2026-07-18T03:21:00+12:00",
+      "end": "2026-07-18T04:21:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.19m)",
+      "tideType": "high",
+      "height": 1.19,
+      "utc": "2026-07-17T21:55:00Z",
+      "start": "2026-07-18T09:25:00+12:00",
+      "end": "2026-07-18T10:25:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.36m)",
+      "tideType": "low",
+      "height": -1.36,
+      "utc": "2026-07-18T04:03:00Z",
+      "start": "2026-07-18T15:33:00+12:00",
+      "end": "2026-07-18T16:33:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.43m)",
+      "tideType": "high",
+      "height": 1.43,
+      "utc": "2026-07-18T10:23:00Z",
+      "start": "2026-07-18T21:53:00+12:00",
+      "end": "2026-07-18T22:53:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.25m)",
+      "tideType": "low",
+      "height": -1.25,
+      "utc": "2026-07-18T16:40:00Z",
+      "start": "2026-07-19T04:10:00+12:00",
+      "end": "2026-07-19T05:10:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.13m)",
+      "tideType": "high",
+      "height": 1.13,
+      "utc": "2026-07-18T22:46:00Z",
+      "start": "2026-07-19T10:16:00+12:00",
+      "end": "2026-07-19T11:16:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.25m)",
+      "tideType": "low",
+      "height": -1.25,
+      "utc": "2026-07-19T04:53:00Z",
+      "start": "2026-07-19T16:23:00+12:00",
+      "end": "2026-07-19T17:23:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.33m)",
+      "tideType": "high",
+      "height": 1.33,
+      "utc": "2026-07-19T11:11:00Z",
+      "start": "2026-07-19T22:41:00+12:00",
+      "end": "2026-07-19T23:41:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.19m)",
+      "tideType": "low",
+      "height": -1.19,
+      "utc": "2026-07-19T17:29:00Z",
+      "start": "2026-07-20T04:59:00+12:00",
+      "end": "2026-07-20T05:59:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.05m)",
+      "tideType": "high",
+      "height": 1.05,
+      "utc": "2026-07-19T23:36:00Z",
+      "start": "2026-07-20T11:06:00+12:00",
+      "end": "2026-07-20T12:06:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.11m)",
+      "tideType": "low",
+      "height": -1.11,
+      "utc": "2026-07-20T05:42:00Z",
+      "start": "2026-07-20T17:12:00+12:00",
+      "end": "2026-07-20T18:12:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.20m)",
+      "tideType": "high",
+      "height": 1.2,
+      "utc": "2026-07-20T11:57:00Z",
+      "start": "2026-07-20T23:27:00+12:00",
+      "end": "2026-07-21T00:27:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.12m)",
+      "tideType": "low",
+      "height": -1.12,
+      "utc": "2026-07-20T18:17:00Z",
+      "start": "2026-07-21T05:47:00+12:00",
+      "end": "2026-07-21T06:47:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.97m)",
+      "tideType": "high",
+      "height": 0.97,
+      "utc": "2026-07-21T00:27:00Z",
+      "start": "2026-07-21T11:57:00+12:00",
+      "end": "2026-07-21T12:57:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.96m)",
+      "tideType": "low",
+      "height": -0.96,
+      "utc": "2026-07-21T06:31:00Z",
+      "start": "2026-07-21T18:01:00+12:00",
+      "end": "2026-07-21T19:01:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.05m)",
+      "tideType": "high",
+      "height": 1.05,
+      "utc": "2026-07-21T12:44:00Z",
+      "start": "2026-07-22T00:14:00+12:00",
+      "end": "2026-07-22T01:14:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.04m)",
+      "tideType": "low",
+      "height": -1.04,
+      "utc": "2026-07-21T19:05:00Z",
+      "start": "2026-07-22T06:35:00+12:00",
+      "end": "2026-07-22T07:35:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.88m)",
+      "tideType": "high",
+      "height": 0.88,
+      "utc": "2026-07-22T01:19:00Z",
+      "start": "2026-07-22T12:49:00+12:00",
+      "end": "2026-07-22T13:49:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.82m)",
+      "tideType": "low",
+      "height": -0.82,
+      "utc": "2026-07-22T07:23:00Z",
+      "start": "2026-07-22T18:53:00+12:00",
+      "end": "2026-07-22T19:53:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.92m)",
+      "tideType": "high",
+      "height": 0.92,
+      "utc": "2026-07-22T13:32:00Z",
+      "start": "2026-07-23T01:02:00+12:00",
+      "end": "2026-07-23T02:02:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.97m)",
+      "tideType": "low",
+      "height": -0.97,
+      "utc": "2026-07-22T19:54:00Z",
+      "start": "2026-07-23T07:24:00+12:00",
+      "end": "2026-07-23T08:24:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.82m)",
+      "tideType": "high",
+      "height": 0.82,
+      "utc": "2026-07-23T02:13:00Z",
+      "start": "2026-07-23T13:43:00+12:00",
+      "end": "2026-07-23T14:43:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.70m)",
+      "tideType": "low",
+      "height": -0.7,
+      "utc": "2026-07-23T08:16:00Z",
+      "start": "2026-07-23T19:46:00+12:00",
+      "end": "2026-07-23T20:46:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.81m)",
+      "tideType": "high",
+      "height": 0.81,
+      "utc": "2026-07-23T14:21:00Z",
+      "start": "2026-07-24T01:51:00+12:00",
+      "end": "2026-07-24T02:51:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.91m)",
+      "tideType": "low",
+      "height": -0.91,
+      "utc": "2026-07-23T20:44:00Z",
+      "start": "2026-07-24T08:14:00+12:00",
+      "end": "2026-07-24T09:14:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.79m)",
+      "tideType": "high",
+      "height": 0.79,
+      "utc": "2026-07-24T03:08:00Z",
+      "start": "2026-07-24T14:38:00+12:00",
+      "end": "2026-07-24T15:38:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.63m)",
+      "tideType": "low",
+      "height": -0.63,
+      "utc": "2026-07-24T09:13:00Z",
+      "start": "2026-07-24T20:43:00+12:00",
+      "end": "2026-07-24T21:43:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.73m)",
+      "tideType": "high",
+      "height": 0.73,
+      "utc": "2026-07-24T15:14:00Z",
+      "start": "2026-07-25T02:44:00+12:00",
+      "end": "2026-07-25T03:44:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.88m)",
+      "tideType": "low",
+      "height": -0.88,
+      "utc": "2026-07-24T21:36:00Z",
+      "start": "2026-07-25T09:06:00+12:00",
+      "end": "2026-07-25T10:06:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.79m)",
+      "tideType": "high",
+      "height": 0.79,
+      "utc": "2026-07-25T04:04:00Z",
+      "start": "2026-07-25T15:34:00+12:00",
+      "end": "2026-07-25T16:34:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.60m)",
+      "tideType": "low",
+      "height": -0.6,
+      "utc": "2026-07-25T10:10:00Z",
+      "start": "2026-07-25T21:40:00+12:00",
+      "end": "2026-07-25T22:40:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.68m)",
+      "tideType": "high",
+      "height": 0.68,
+      "utc": "2026-07-25T16:07:00Z",
+      "start": "2026-07-26T03:37:00+12:00",
+      "end": "2026-07-26T04:37:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.88m)",
+      "tideType": "low",
+      "height": -0.88,
+      "utc": "2026-07-25T22:28:00Z",
+      "start": "2026-07-26T09:58:00+12:00",
+      "end": "2026-07-26T10:58:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.82m)",
+      "tideType": "high",
+      "height": 0.82,
+      "utc": "2026-07-26T04:58:00Z",
+      "start": "2026-07-26T16:28:00+12:00",
+      "end": "2026-07-26T17:28:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.61m)",
+      "tideType": "low",
+      "height": -0.61,
+      "utc": "2026-07-26T11:06:00Z",
+      "start": "2026-07-26T22:36:00+12:00",
+      "end": "2026-07-26T23:36:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.67m)",
+      "tideType": "high",
+      "height": 0.67,
+      "utc": "2026-07-26T17:01:00Z",
+      "start": "2026-07-27T04:31:00+12:00",
+      "end": "2026-07-27T05:31:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.91m)",
+      "tideType": "low",
+      "height": -0.91,
+      "utc": "2026-07-26T23:18:00Z",
+      "start": "2026-07-27T10:48:00+12:00",
+      "end": "2026-07-27T11:48:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.88m)",
+      "tideType": "high",
+      "height": 0.88,
+      "utc": "2026-07-27T05:48:00Z",
+      "start": "2026-07-27T17:18:00+12:00",
+      "end": "2026-07-27T18:18:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.66m)",
+      "tideType": "low",
+      "height": -0.66,
+      "utc": "2026-07-27T11:59:00Z",
+      "start": "2026-07-27T23:29:00+12:00",
+      "end": "2026-07-28T00:29:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.70m)",
+      "tideType": "high",
+      "height": 0.7,
+      "utc": "2026-07-27T17:52:00Z",
+      "start": "2026-07-28T05:22:00+12:00",
+      "end": "2026-07-28T06:22:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.95m)",
+      "tideType": "low",
+      "height": -0.95,
+      "utc": "2026-07-28T00:06:00Z",
+      "start": "2026-07-28T11:36:00+12:00",
+      "end": "2026-07-28T12:36:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.95m)",
+      "tideType": "high",
+      "height": 0.95,
+      "utc": "2026-07-28T06:34:00Z",
+      "start": "2026-07-28T18:04:00+12:00",
+      "end": "2026-07-28T19:04:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.73m)",
+      "tideType": "low",
+      "height": -0.73,
+      "utc": "2026-07-28T12:46:00Z",
+      "start": "2026-07-29T00:16:00+12:00",
+      "end": "2026-07-29T01:16:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.74m)",
+      "tideType": "high",
+      "height": 0.74,
+      "utc": "2026-07-28T18:40:00Z",
+      "start": "2026-07-29T06:10:00+12:00",
+      "end": "2026-07-29T07:10:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.99m)",
+      "tideType": "low",
+      "height": -0.99,
+      "utc": "2026-07-29T00:51:00Z",
+      "start": "2026-07-29T12:21:00+12:00",
+      "end": "2026-07-29T13:21:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.02m)",
+      "tideType": "high",
+      "height": 1.02,
+      "utc": "2026-07-29T07:17:00Z",
+      "start": "2026-07-29T18:47:00+12:00",
+      "end": "2026-07-29T19:47:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-0.80m)",
+      "tideType": "low",
+      "height": -0.8,
+      "utc": "2026-07-29T13:30:00Z",
+      "start": "2026-07-30T01:00:00+12:00",
+      "end": "2026-07-30T02:00:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (0.78m)",
+      "tideType": "high",
+      "height": 0.78,
+      "utc": "2026-07-29T19:25:00Z",
+      "start": "2026-07-30T06:55:00+12:00",
+      "end": "2026-07-30T07:55:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "Low tide (-1.03m)",
+      "tideType": "low",
+      "height": -1.03,
+      "utc": "2026-07-30T01:33:00Z",
+      "start": "2026-07-30T13:03:00+12:00",
+      "end": "2026-07-30T14:03:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    },
+    {
+      "title": "High tide (1.08m)",
+      "tideType": "high",
+      "height": 1.08,
+      "utc": "2026-07-30T07:57:00Z",
+      "start": "2026-07-30T19:27:00+12:00",
+      "end": "2026-07-30T20:27:00+12:00",
+      "timeZone": "Pacific/Auckland"
+    }
+  ]
+}

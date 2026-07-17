@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Runtime home (only present if TIDE_CAL_HOME points inside the repo — never commit secrets/artifacts)
+secrets/
+work/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store

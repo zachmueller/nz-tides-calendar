@@ -1,0 +1,25 @@
+{
+  "name": "nz-tides-calendar",
+  "version": "1.0.0",
+  "description": "Fetch NIWA tide predictions and sync high/low tide events into a Google Calendar. Runs unattended under launchd on macOS.",
+  "type": "module",
+  "bin": {
+    "tide-calendar": "./bin/cli.js"
+  },
+  "exports": {
+    ".": "./src/run.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node ./bin/cli.js run"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "src/",
+    "launchd/"
+  ]
+}
